@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "2c2c79092208cd20b781c2128bc38503",
-"index.html": "6a8edb5daed9aef978bd9a55abdd5650",
-"/": "6a8edb5daed9aef978bd9a55abdd5650",
-"main.dart.js": "3b638cfa00055992c8b93195a9d3bdf5",
+"index.html": "6d4b1b86fd04f5e2afa9a2d9aa731994",
+"/": "6d4b1b86fd04f5e2afa9a2d9aa731994",
+"main.dart.js": "702fea85fe74ff3f30c3ac0c26d34d43",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "c7b5347b97e6bf73a3c1f53396310164",
 "icons/Icon-192.png": "c7b5347b97e6bf73a3c1f53396310164",
@@ -293,7 +293,7 @@ const RESOURCES = {
 "assets/assets/images/store.png": "6f5621701776a90a8e13bf0aef4e3969",
 "assets/assets/images/google-play.svg": "996787f66b5f3d123ee669ef95b1fade",
 "assets/assets/images/welcome_image1.png": "ba3d8c69b991342d2c080a368734adea",
-"assets/assets/images/store.svg": "4d628deac5d4ce8ae205521f9f951e6b",
+"assets/assets/images/store.svg": "4e24ce083c55c0c3131beeafae16a4d2",
 "assets/assets/images/pulses.png": "397af0d0d9cc012b7b4cda84149a0ad4",
 "assets/assets/images/ipad_welcome_image.png": "040881a773d36879a429395b43841150",
 "assets/assets/images/store.jpeg": "b8cd1f9bf10934062e1cbdeaa6e392df",
